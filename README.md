@@ -13,3 +13,5 @@ This Python-based project Scraping Stadiums data from Wikipedia using Apache Air
 2. Cleans the data.
 3. Transforms the data.
 4. Pushes the data to Azure Data Lake.
+
+![Screenshot 2024-08-05 064022](https://github.com/user-attachments/assets/612d4305-e9d2-48c8-9f20-77b61bd33aba)
